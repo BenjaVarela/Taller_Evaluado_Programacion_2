@@ -7,7 +7,7 @@ Sistema de reservas de salas de estudio
 ### 1. Clonar el repositorio
 ```bash
 git clone https://github.com/BenjaVarela/Taller_Evaluado_Programacion_2.git
-cd Taller_Evaluado_Programación_2
+cd Taller_Evaluado_Programacion_2
 ```
 
 ### 2. Crear y activar un entorno virtual
